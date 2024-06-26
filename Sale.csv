@@ -1,0 +1,201 @@
+sale_id,customer_id,product_id,sale_date,quantity_sold,unit_price,total_amount,payment_method,shipping_address,delivery_status
+1,1,45,2024-08-01,2,599.99,1199.98,Credit Card,123 Main St,Delivered
+2,2,10,2024-08-02,1,1299.99,1299.99,Debit Card,456 Elm St,In Transit
+3,3,28,2024-08-03,3,149.99,449.97,PayPal,789 Oak St,Delivered
+4,4,5,2024-08-04,1,299.99,299.99,Credit Card,101 Pine St,Delivered
+5,5,18,2024-08-05,2,499.99,999.98,Debit Card,202 Maple St,In Transit
+6,6,40,2024-08-06,1,199.99,199.99,PayPal,303 Cedar St,Delivered
+7,7,31,2024-08-07,4,999.99,3999.96,Credit Card,404 Birch St,Delivered
+8,8,23,2024-08-08,1,799.99,799.99,Debit Card,505 Walnut St,In Transit
+9,9,12,2024-08-09,2,1499.99,2999.98,PayPal,606 Oak St,Delivered
+10,10,1,2024-08-10,3,299.99,899.97,Credit Card,707 Pine St,Delivered
+11,11,38,2024-08-11,1,79.99,79.99,Debit Card,808 Elm St,In Transit
+12,12,13,2024-08-12,2,39.99,79.98,PayPal,909 Maple St,Delivered
+13,13,19,2024-08-13,1,149.99,149.99,Credit Card,1010 Cedar St,Delivered
+14,14,2,2024-08-14,3,199.99,599.97,Debit Card,1111 Birch St,In Transit
+15,15,48,2024-08-15,1,299.99,299.99,PayPal,1212 Walnut St,Delivered
+16,16,7,2024-08-16,2,19.99,39.98,Credit Card,1313 Oak St,Delivered
+17,17,9,2024-08-17,1,49.99,49.99,Debit Card,1414 Pine St,In Transit
+18,18,21,2024-08-18,2,39.99,79.98,PayPal,1515 Elm St,Delivered
+19,19,35,2024-08-19,3,59.99,179.97,Credit Card,1616 Maple St,Delivered
+20,20,49,2024-08-20,1,99.99,99.99,Debit Card,1717 Cedar St,In Transit
+21,21,17,2024-08-21,2,49.99,99.98,PayPal,1818 Birch St,Delivered
+22,22,36,2024-08-22,1,199.99,199.99,Credit Card,1919 Walnut St,Delivered
+23,23,44,2024-08-23,3,99.99,299.97,Debit Card,2020 Oak St,In Transit
+24,24,46,2024-08-24,1,79.99,79.99,PayPal,2121 Pine St,Delivered
+25,25,20,2024-08-25,2,149.99,299.98,Credit Card,2222 Elm St,Delivered
+26,26,11,2024-08-26,1,299.99,299.99,Debit Card,2323 Maple St,In Transit
+27,27,30,2024-08-27,4,19.99,79.96,PayPal,2424 Cedar St,Delivered
+28,28,37,2024-08-28,1,149.99,149.99,Credit Card,2525 Birch St,Delivered
+29,29,24,2024-08-29,2,59.99,119.98,Debit Card,2626 Walnut St,In Transit
+30,30,29,2024-08-30,3,49.99,149.97,PayPal,2727 Oak St,Delivered
+31,31,50,2024-08-31,1,499.99,499.99,Credit Card,2828 Pine St,Delivered
+32,32,27,2024-09-01,2,299.99,599.98,Debit Card,2929 Elm St,In Transit
+33,33,3,2024-09-02,1,99.99,99.99,PayPal,3030 Maple St,Delivered
+34,34,22,2024-09-03,3,399.99,1199.97,Credit Card,3131 Cedar St,Delivered
+35,35,16,2024-09-04,1,149.99,149.99,Debit Card,3232 Birch St,In Transit
+36,36,25,2024-09-05,2,99.99,199.98,PayPal,3333 Walnut St,Delivered
+37,37,14,2024-09-06,1,29.99,29.99,Credit Card,3434 Oak St,Delivered
+38,38,43,2024-09-07,2,19.99,39.98,Debit Card,3535 Pine St,In Transit
+39,39,8,2024-09-08,3,149.99,449.97,PayPal,3636 Elm St,Delivered
+40,40,4,2024-09-09,1,79.99,79.99,Credit Card,3737 Maple St,Delivered
+41,41,41,2024-09-10,2,9.99,19.98,Debit Card,3838 Cedar St,In Transit
+42,42,33,2024-09-11,1,19.99,19.99,PayPal,3939 Birch St,Delivered
+43,43,42,2024-09-12,3,14.99,44.97,Credit Card,4040 Walnut St,Delivered
+44,44,47,2024-09-13,1,29.99,29.99,Debit Card,4141 Oak St,In Transit
+45,45,26,2024-09-14,2,99.99,199.98,PayPal,4242 Pine St,Delivered
+46,46,15,2024-09-15,1,49.99,49.99,Credit Card,4343 Elm St,Delivered
+47,47,39,2024-09-16,3,19.99,59.97,Debit Card,4444 Maple St,In Transit
+48,48,7,2024-09-17,1,39.99,39.99,PayPal,4545 Cedar St,Delivered
+49,49,2,2024-09-18,2,29.99,59.98,Credit Card,4646 Birch St,Delivered
+50,50,48,2024-09-19,3,59.99,179.97,Debit Card,4747 Walnut St,In Transit
+51,51,47,2024-09-20,2,599.99,1199.98,Credit Card,4848 Oak St,Delivered
+52,52,45,2024-09-21,1,1299.99,1299.99,Debit Card,4949 Pine St,In Transit
+53,53,29,2024-09-22,3,149.99,449.97,PayPal,5050 Elm St,Delivered
+54,54,21,2024-09-23,1,299.99,299.99,Credit Card,5151 Maple St,Delivered
+55,55,37,2024-09-24,2,499.99,999.98,Debit Card,202 Maple St,In Transit
+56,56,1,2024-09-25,1,199.99,199.99,PayPal,303 Cedar St,Delivered
+57,57,24,2024-09-26,4,999.99,3999.96,Credit Card,404 Birch St,Delivered
+58,58,20,2024-09-27,1,799.99,799.99,Debit Card,505 Walnut St,In Transit
+59,59,17,2024-09-28,2,1499.99,2999.98,PayPal,606 Oak St,Delivered
+60,60,3,2024-09-29,3,299.99,899.97,Credit Card,707 Pine St,Delivered
+61,61,38,2024-09-30,1,79.99,79.99,Debit Card,808 Elm St,In Transit
+62,62,10,2024-10-01,2,39.99,79.98,PayPal,909 Maple St,Delivered
+63,63,18,2024-10-02,1,149.99,149.99,Credit Card,1010 Cedar St,Delivered
+64,64,36,2024-10-03,3,199.99,599.97,Debit Card,1111 Birch St,In Transit
+65,65,11,2024-10-04,1,299.99,299.99,PayPal,1212 Walnut St,Delivered
+66,66,14,2024-10-05,2,19.99,39.98,Credit Card,1313 Oak St,Delivered
+67,67,46,2024-10-06,1,49.99,49.99,Debit Card,1414 Pine St,In Transit
+68,68,33,2024-10-07,2,39.99,79.98,PayPal,1515 Elm St,Delivered
+69,69,24,2024-10-08,3,59.99,179.97,Credit Card,1616 Maple St,Delivered
+70,70,32,2024-10-09,1,99.99,99.99,Debit Card,1717 Cedar St,In Transit
+71,71,44,2024-10-10,2,49.99,99.98,PayPal,1818 Birch St,Delivered
+72,72,2,2024-10-11,1,199.99,199.99,Credit Card,1919 Walnut St,Delivered
+73,73,8,2024-10-12,3,99.99,299.97,Debit Card,2020 Oak St,In Transit
+74,74,34,2024-10-13,1,79.99,79.99,PayPal,2121 Pine St,Delivered
+75,75,23,2024-10-14,2,149.99,299.98,Credit Card,2222 Elm St,Delivered
+76,76,15,2024-10-15,1,299.99,299.99,Debit Card,2323 Maple St,In Transit
+77,77,25,2024-10-16,4,19.99,79.96,PayPal,2424 Cedar St,Delivered
+78,78,49,2024-10-17,1,149.99,149.99,Credit Card,2525 Birch St,Delivered
+79,79,30,2024-10-18,2,59.99,119.98,Debit Card,2626 Walnut St,In Transit
+80,80,5,2024-10-19,3,49.99,149.97,PayPal,2727 Oak St,Delivered
+81,81,39,2024-10-20,1,499.99,499.99,Credit Card,2828 Pine St,Delivered
+82,82,40,2024-10-21,2,299.99,599.98,Debit Card,2929 Elm St,In Transit
+83,83,16,2024-10-22,1,99.99,99.99,PayPal,3030 Maple St,Delivered
+84,84,43,2024-10-23,3,399.99,1199.97,Credit Card,3131 Cedar St,Delivered
+85,85,6,2024-10-24,1,149.99,149.99,Debit Card,3232 Birch St,In Transit
+86,86,12,2024-10-25,2,99.99,199.98,PayPal,3333 Walnut St,Delivered
+87,87,19,2024-10-26,1,29.99,29.99,Credit Card,3434 Oak St,Delivered
+88,88,27,2024-10-27,2,19.99,39.98,Debit Card,3535 Pine St,In Transit
+89,89,4,2024-10-28,3,149.99,449.97,PayPal,3636 Elm St,Delivered
+90,90,31,2024-10-29,1,79.99,79.99,Credit Card,3737 Maple St,Delivered
+91,91,42,2024-10-30,2,9.99,19.98,Debit Card,3838 Cedar St,In Transit
+92,92,22,2024-10-31,1,19.99,19.99,PayPal,3939 Birch St,Delivered
+93,93,34,2024-11-01,3,14.99,44.97,Credit Card,4040 Walnut St,Delivered
+94,94,13,2024-11-02,1,29.99,29.99,Debit Card,4141 Oak St,In Transit
+95,95,26,2024-11-03,2,99.99,199.98,PayPal,4242 Pine St,Delivered
+96,96,3,2024-11-04,1,49.99,49.99,Credit Card,4343 Elm St,Delivered
+97,97,46,2024-11-05,3,19.99,59.97,Debit Card,4444 Maple St,In Transit
+98,98,17,2024-11-06,1,39.99,39.99,PayPal,4545 Cedar St,Delivered
+99,99,29,2024-11-07,2,29.99,59.98,Credit Card,4646 Birch St,Delivered
+100,100,26,2024-11-08,3,59.99,179.97,Debit Card,4747 Walnut St,In Transit
+101,101,24,2024-11-09,2,599.99,1199.98,Credit Card,4848 Oak St,Delivered
+102,102,16,2024-11-10,1,1299.99,1299.99,Debit Card,4949 Pine St,In Transit
+103,103,15,2024-11-11,3,149.99,449.97,PayPal,5050 Elm St,Delivered
+104,104,30,2024-11-12,1,299.99,299.99,Credit Card,5151 Maple St,Delivered
+105,105,25,2024-11-13,2,499.99,999.98,Debit Card,202 Maple St,In Transit
+106,106,5,2024-11-14,1,199.99,199.99,PayPal,303 Cedar St,Delivered
+107,107,27,2024-11-15,4,999.99,3999.96,Credit Card,404 Birch St,Delivered
+108,108,22,2024-11-16,1,799.99,799.99,Debit Card,505 Walnut St,In Transit
+109,109,46,2024-11-17,2,1499.99,2999.98,PayPal,606 Oak St,Delivered
+110,110,43,2024-11-18,3,299.99,899.97,Credit Card,707 Pine St,Delivered
+111,111,2,2024-11-19,1,79.99,79.99,Debit Card,808 Elm St,In Transit
+112,112,4,2024-11-20,2,39.99,79.98,PayPal,909 Maple St,Delivered
+113,113,12,2024-11-21,1,149.99,149.99,Credit Card,1010 Cedar St,Delivered
+114,114,37,2024-11-22,3,199.99,599.97,Debit Card,1111 Birch St,In Transit
+115,115,35,2024-11-23,1,299.99,299.99,PayPal,1212 Walnut St,Delivered
+116,116,9,2024-11-24,2,19.99,39.98,Credit Card,1313 Oak St,Delivered
+117,117,28,2024-11-25,1,49.99,49.99,Debit Card,1414 Pine St,In Transit
+118,118,47,2024-11-26,2,39.99,79.98,PayPal,1515 Elm St,Delivered
+119,119,14,2024-11-27,3,59.99,179.97,Credit Card,1616 Maple St,Delivered
+120,120,21,2024-11-28,1,99.99,99.99,Debit Card,1717 Cedar St,In Transit
+121,121,41,2024-11-29,2,49.99,99.98,PayPal,1818 Birch St,Delivered
+122,122,8,2024-11-30,1,199.99,199.99,Credit Card,1919 Walnut St,Delivered
+123,123,48,2024-12-01,2,99.99,199.98,Debit Card,2020 Oak St,In Transit
+124,124,33,2024-12-02,3,19.99,59.97,PayPal,2121 Pine St,Delivered
+125,125,26,2024-12-03,1,149.99,149.99,Credit Card,2222 Elm St,Delivered
+126,126,40,2024-12-04,2,99.99,199.98,Debit Card,2323 Maple St,In Transit
+127,127,10,2024-12-05,1,29.99,29.99,PayPal,2424 Cedar St,Delivered
+128,128,36,2024-12-06,4,19.99,79.96,Credit Card,2525 Birch St,Delivered
+129,129,19,2024-12-07,1,149.99,149.99,Debit Card,2626 Walnut St,In Transit
+130,130,24,2024-12-08,2,599.99,1199.98,PayPal,2727 Oak St,Delivered
+131,131,7,2024-12-09,1,1299.99,1299.99,Credit Card,2828 Pine St,Delivered
+132,132,20,2024-12-10,3,149.99,449.97,Debit Card,2929 Elm St,In Transit
+133,133,37,2024-12-11,1,299.99,299.99,PayPal,3030 Maple St,Delivered
+134,134,23,2024-12-12,2,499.99,999.98,Credit Card,3131 Cedar St,Delivered
+135,135,15,2024-12-13,1,199.99,199.99,Debit Card,3232 Birch St,In Transit
+136,136,31,2024-12-14,2,19.99,39.98,PayPal,3333 Walnut St,Delivered
+137,137,43,2024-12-15,3,14.99,44.97,Credit Card,3434 Oak St,Delivered
+138,138,6,2024-12-16,1,29.99,29.99,Debit Card,3535 Pine St,In Transit
+139,139,9,2024-12-17,2,199.99,399.98,PayPal,3636 Elm St,Delivered
+140,140,44,2024-12-18,1,99.99,99.99,Credit Card,3737 Maple St,Delivered
+141,141,32,2024-12-19,3,59.99,179.97,Debit Card,3838 Cedar St,In Transit
+142,142,41,2024-12-20,1,499.99,499.99,PayPal,3939 Birch St,Delivered
+143,143,2,2024-12-21,2,299.99,599.98,Credit Card,4040 Walnut St,Delivered
+144,144,28,2024-12-22,1,149.99,149.99,Debit Card,4141 Oak St,In Transit
+145,145,27,2024-12-23,2,99.99,199.98,PayPal,4242 Pine St,Delivered
+146,146,4,2024-12-24,3,49.99,149.97,Credit Card,4343 Elm St,Delivered
+147,147,5,2024-12-25,1,299.99,299.99,Debit Card,4444 Maple St,In Transit
+148,148,30,2024-12-26,2,599.99,1199.98,PayPal,4545 Cedar St,Delivered
+149,149,38,2024-12-27,1,1299.99,1299.99,Credit Card,4646 Birch St,Delivered
+150,150,21,2024-12-28,3,149.99,449.97,Debit Card,4747 Walnut St,In Transit
+151,151,26,2024-12-29,1,99.99,99.99,PayPal,4848 Oak St,Delivered
+152,152,49,2024-12-30,2,499.99,999.98,Credit Card,4949 Pine St,In Transit
+153,153,10,2025-01-01,1,199.99,199.99,Debit Card,5050 Elm St,Delivered
+154,154,14,2025-01-02,2,19.99,39.98,PayPal,5151 Maple St,Delivered
+155,155,41,2025-01-03,3,399.99,1199.97,Credit Card,202 Maple St,In Transit
+156,156,32,2025-01-04,1,149.99,149.99,Debit Card,303 Cedar St,Delivered
+157,157,42,2025-01-05,2,599.99,1199.98,PayPal,404 Birch St,Delivered
+158,158,12,2025-01-06,1,799.99,799.99,Credit Card,505 Walnut St,In Transit
+159,159,20,2025-01-07,3,1499.99,4499.97,Debit Card,606 Oak St,Delivered
+160,160,17,2025-01-08,1,299.99,299.99,PayPal,707 Pine St,Delivered
+161,161,5,2025-01-09,2,79.99,159.98,Credit Card,808 Elm St,In Transit
+162,162,26,2025-01-10,1,99.99,99.99,Debit Card,909 Maple St,Delivered
+163,163,24,2025-01-11,3,199.99,599.97,PayPal,1010 Cedar St,Delivered
+164,164,15,2025-01-12,1,149.99,149.99,Credit Card,1111 Birch St,In Transit
+165,165,38,2025-01-13,2,29.99,59.98,Debit Card,1212 Walnut St,Delivered
+166,166,7,2025-01-14,1,299.99,299.99,PayPal,1313 Oak St,Delivered
+167,167,27,2025-01-15,3,19.99,59.97,Credit Card,1414 Pine St,In Transit
+168,168,46,2025-01-16,1,49.99,49.99,Debit Card,1515 Elm St,Delivered
+169,169,33,2025-01-17,2,39.99,79.98,PayPal,1616 Maple St,Delivered
+170,170,24,2025-01-18,3,59.99,179.97,Credit Card,1717 Cedar St,In Transit
+171,171,1,2025-01-19,1,99.99,99.99,Debit Card,1818 Birch St,Delivered
+172,172,46,2025-01-20,2,199.99,399.98,PayPal,1919 Walnut St,Delivered
+173,173,34,2025-01-21,1,149.99,149.99,Credit Card,2020 Oak St,In Transit
+174,174,23,2025-01-22,2,99.99,199.98,Debit Card,2121 Pine St,Delivered
+175,175,10,2025-01-23,3,19.99,59.97,PayPal,2222 Elm St,Delivered
+176,176,37,2025-01-24,1,149.99,149.99,Credit Card,2323 Maple St,In Transit
+177,177,25,2025-01-25,2,499.99,999.98,Debit Card,2424 Cedar St,Delivered
+178,178,15,2025-01-26,1,299.99,299.99,PayPal,2525 Birch St,Delivered
+179,179,31,2025-01-27,3,149.99,449.97,Credit Card,2626 Walnut St,In Transit
+180,180,43,2025-01-28,1,99.99,99.99,Debit Card,2727 Oak St,Delivered
+181,181,6,2025-01-29,2,199.99,399.98,PayPal,2828 Pine St,Delivered
+182,182,9,2025-01-30,1,49.99,49.99,Credit Card,2929 Elm St,In Transit
+183,183,44,2025-01-31,3,29.99,89.97,Debit Card,3030 Maple St,Delivered
+184,184,22,2025-02-01,1,299.99,299.99,PayPal,3131 Cedar St,In Transit
+185,185,42,2025-02-02,2,399.99,799.98,Credit Card,3232 Birch St,Delivered
+186,186,4,2025-02-03,3,299.99,899.97,Debit Card,3333 Walnut St,In Transit
+187,187,13,2025-02-04,1,149.99,149.99,PayPal,3434 Oak St,Delivered
+188,188,20,2025-02-05,2,59.99,119.98,Credit Card,3535 Pine St,In Transit
+189,189,28,2025-02-06,1,399.99,399.99,Debit Card,3636 Elm St,Delivered
+190,190,19,2025-02-07,3,79.99,239.97,PayPal,3737 Maple St,Delivered
+191,191,16,2025-02-08,1,1299.99,1299.99,Credit Card,3838 Cedar St,In Transit
+192,192,35,2025-02-09,2,1499.99,2999.98,Debit Card,3939 Birch St,Delivered
+193,193,36,2025-02-10,1,99.99,99.99,PayPal,4040 Walnut St,In Transit
+194,194,1,2025-02-11,2,199.99,399.98,Credit Card,4141 Oak St,Delivered
+195,195,30,2025-02-12,3,399.99,1199.97,Debit Card,4242 Pine St,In Transit
+196,196,14,2025-02-13,1,799.99,799.99,PayPal,4343 Elm St,Delivered
+197,197,29,2025-02-14,2,499.99,999.98,Credit Card,4444 Maple St,Delivered
+198,198,45,2025-02-15,1,299.99,299.99,Debit Card,4545 Cedar St,In Transit
+199,199,47,2025-02-16,2,149.99,299.98,PayPal,4646 Birch St,Delivered
+200,200,8,2025-02-17,1,29.99,29.99,Credit Card,4747 Walnut St,In Transit

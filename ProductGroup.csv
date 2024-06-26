@@ -1,0 +1,11 @@
+category_id,category_name,category_description,parent_category_id,creation_date,last_updated
+1,Electronics,"Electronic devices and accessories",null,2025-02-17,2025-02-17
+2,Computers,"Computers and related accessories",1,2025-02-17,2025-02-17
+3,Mobile Phones,"Smartphones and mobile accessories",1,2025-02-17,2025-02-17
+4,Home Appliances,"Appliances for household use",null,2025-02-17,2025-02-17
+5,Kitchen Appliances,"Appliances for kitchen use",4,2025-02-17,2025-02-17
+6,Personal Care,"Personal grooming and hygiene products",null,2025-02-17,2025-02-17
+7,Health & Fitness,"Health monitoring and fitness products",null,2025-02-17,2025-02-17
+8,Clothing,"Apparel and clothing accessories",null,2025-02-17,2025-02-17
+9,Shoes,"Footwear for all occasions",8,2025-02-17,2025-02-17
+10,Accessories,"Fashion accessories and miscellaneous items",8,2025-02-17,2025-02-17

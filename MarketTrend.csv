@@ -1,0 +1,101 @@
+trend_id,category_id,trenddate,trenddescription,trendvalue,trendcategory,trendduration,trendimpact,trendvolatility,trendrecommendation,trendstatus
+1,101,2023-04-01,Rising demand for eco-friendly products,12.5%,Sustainability,6 months,High,Moderate,Buy,Active
+2,205,2023-05-15,Emerging trend in smart home technology,8.2%,Technology,1 year,High,High,Hold,Active
+3,302,2023-02-28,Shift towards online shopping,17.3%,E-commerce,9 months,High,High,Buy,Active
+4,401,2023-06-10,Increased interest in health and wellness products,6.9%,Healthcare,3 months,Moderate,Low,Hold,Active
+5,102,2023-01-20,Growing popularity of plant-based diets,11.4%,Food & Beverage,1 year,High,Moderate,Buy,Active
+6,206,2023-03-31,Surge in demand for 5G-enabled devices,9.7%,Technology,6 months,High,High,Buy,Active
+7,303,2023-04-25,Rise in remote work and virtual collaboration,14.2%,Software,1 year,High,High,Buy,Active
+8,402,2023-05-01,Increasing focus on mental health and wellness,7.3%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+9,103,2023-02-15,Trend towards minimalist and sustainable fashion,10.1%,Retail,9 months,Moderate,Moderate,Hold,Active
+10,207,2023-06-01,Growing popularity of cloud computing services,8.5%,Technology,1 year,High,High,Buy,Active
+11,304,2023-03-20,Rise in demand for electric vehicles,15.6%,Automotive,1 year,High,High,Buy,Active
+12,403,2023-04-18,Increased focus on personalized and preventive healthcare,6.8%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+13,104,2023-01-10,Trend towards local and artisanal food products,12.2%,Food & Beverage,1 year,Moderate,Moderate,Buy,Active
+14,208,2023-05-05,Emerging technologies in the fintech industry,9.1%,Finance,9 months,High,High,Buy,Active
+15,305,2023-02-22,Rise in demand for sustainable and eco-friendly construction materials,13.8%,Construction,1 year,High,Moderate,Buy,Active
+16,404,2023-06-15,Increasing popularity of telemedicine and virtual healthcare consultations,7.5%,Healthcare,6 months,Moderate,High,Hold,Active
+17,105,2023-03-01,Trend towards natural and organic personal care products,11.6%,Retail,9 months,Moderate,Moderate,Buy,Active
+18,209,2023-04-12,Growing adoption of blockchain technology,8.9%,Finance,1 year,High,High,Buy,Active
+19,306,2023-05-30,Rise in demand for smart home automation solutions,14.3%,Technology,1 year,High,High,Buy,Active
+20,405,2023-01-05,Increased focus on preventive and holistic healthcare approaches,6.4%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+21,106,2023-06-20,Growing demand for plant-based meat alternatives,9.8%,Food & Beverage,1 year,Moderate,Moderate,Buy,Active
+22,210,2023-02-01,Emerging trends in decentralized finance (DeFi),11.2%,Finance,9 months,High,High,Buy,Active
+23,307,2023-04-08,Rise in popularity of online fitness and wellness programs,12.6%,Retail,6 months,Moderate,Moderate,Buy,Active
+24,406,2023-05-15,Increased focus on mental health and work-life balance,8.3%,Healthcare,1 year,High,Moderate,Hold,Active
+25,107,2023-01-15,Trend towards sustainable and ethical fashion,10.5%,Retail,1 year,Moderate,Moderate,Buy,Active
+26,211,2023-03-22,Growing adoption of artificial intelligence in business operations,13.1%,Technology,1 year,High,High,Buy,Active
+27,308,2023-06-01,Rise in demand for personalized and subscription-based services,11.9%,E-commerce,6 months,Moderate,Moderate,Buy,Active
+28,407,2023-02-10,Increasing focus on social determinants of health,7.2%,Healthcare,9 months,Moderate,Moderate,Hold,Active
+29,108,2023-04-30,Trend towards circular and zero-waste economies,9.4%,Sustainability,1 year,Moderate,Moderate,Buy,Active
+30,212,2023-05-20,Emerging trends in the Internet of Things (IoT),12.7%,Technology,1 year,High,High,Buy,Active
+31,309,2023-01-05,Rise in demand for sustainable and eco-friendly transportation options,13.5%,Automotive,1 year,High,High,Buy,Active
+32,408,2023-03-15,Increased focus on personalized nutrition and wellness programs,8.1%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+33,109,2023-02-20,Trend towards minimalist and functional home design,10.2%,Retail,9 months,Moderate,Moderate,Buy,Active
+34,213,2023-06-10,Growing adoption of cloud-based enterprise software,11.8%,Technology,1 year,High,High,Buy,Active
+35,310,2023-04-01,Rise in demand for renewable energy solutions,14.2%,Construction,1 year,High,High,Buy,Active
+36,409,2023-05-01,Increased focus on preventive care and early intervention,7.6%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+37,110,2023-01-25,Trend towards ethical and transparent supply chains,9.7%,Sustainability,1 year,Moderate,Moderate,Buy,Active
+38,214,2023-03-10,Emerging trends in the sharing economy,12.3%,E-commerce,9 months,High,High,Buy,Active
+39,311,2023-06-15,Rise in demand for smart and connected home devices,13.9%,Technology,1 year,High,High,Buy,Active
+40,410,2023-02-05,Increased focus on employee wellness and mental health support,7.9%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+41,111,2023-05-10,Trend towards personalized and customized products,11.2%,Retail,1 year,Moderate,Moderate,Buy,Active
+42,215,2023-01-20,Growing adoption of blockchain-based supply chain solutions,12.6%,Technology,9 months,High,High,Buy,Active
+43,312,2023-04-15,Rise in demand for sustainable and energy-efficient construction materials,14.1%,Construction,1 year,High,High,Buy,Active
+44,411,2023-06-01,Increased focus on integrating technology into healthcare delivery,8.4%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+45,112,2023-02-28,Trend towards conscious and responsible consumerism,10.8%,Sustainability,1 year,Moderate,Moderate,Buy,Active
+46,216,2023-03-05,Emerging trends in the gig economy and remote work,11.9%,E-commerce,9 months,High,High,Buy,Active
+47,313,2023-05-20,Rise in demand for sustainable and environmentally-friendly transportation options,13.7%,Automotive,1 year,High,High,Buy,Active
+48,412,2023-01-10,Increased focus on social determinants of health and health equity,7.5%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+49,113,2023-04-01,Trend towards natural and clean beauty products,11.4%,Retail,1 year,Moderate,Moderate,Buy,Active
+50,217,2023-06-15,Growing adoption of 5G technology and its impact on various industries,12.9%,Technology,1 year,High,High,Buy,Active
+51,314,2023-02-15,Rise in demand for smart and connected home devices,14.3%,Technology,1 year,High,High,Buy,Active
+52,413,2023-03-20,Increased focus on preventive care and early intervention in healthcare,8.2%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+53,114,2023-05-01,Trend towards sustainable and eco-friendly packaging solutions,10.6%,Sustainability,1 year,Moderate,Moderate,Buy,Active
+54,218,2023-01-05,Emerging trends in the decentralized finance (DeFi) space,12.3%,Finance,9 months,High,High,Buy,Active
+55,315,2023-04-20,Rise in demand for electric and hybrid vehicles,13.8%,Automotive,1 year,High,High,Buy,Active
+56,414,2023-06-10,Increased focus on mental health and work-life balance in the workplace,8.1%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+57,115,2023-03-15,Trend towards sustainable and locally-sourced food products,11.1%,Food & Beverage,1 year,Moderate,Moderate,Buy,Active
+58,219,2023-02-01,Growing adoption of artificial intelligence and machine learning in various industries,12.7%,Technology,1 year,High,High,Buy,Active
+59,316,2023-05-10,Rise in demand for renewable energy solutions and clean energy infrastructure,14.2%,Construction,1 year,High,High,Buy,Active
+60,415,2023-01-15,Increased focus on personalized and precision medicine in healthcare,7.9%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+61,116,2023-06-01,Trend towards ethical and transparent supply chains in the fashion industry,10.9%,Retail,1 year,Moderate,Moderate,Buy,Active
+62,220,2023-03-10,Emerging trends in the Internet of Things (IoT) and its applications,12.4%,Technology,9 months,High,High,Buy,Active
+63,317,2023-01-20,Rise in demand for smart and connected home devices and technologies,13.9%,Technology,1 year,High,High,Buy,Active
+64,416,2023-04-15,Increased focus on integrating technology and digital solutions into healthcare delivery,8.3%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+65,117,2023-02-05,Trend towards personalized and customized beauty and personal care products,11.3%,Retail,1 year,Moderate,Moderate,Buy,Active
+66,221,2023-05-01,Growing adoption of cloud-based enterprise software and services,12.8%,Technology,1 year,High,High,Buy,Active
+67,318,2023-06-15,Rise in demand for sustainable and energy-efficient construction materials and practices,14.0%,Construction,1 year,High,High,Buy,Active
+68,417,2023-01-05,Increased focus on employee wellness, mental health, and work-life balance,8.1%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+69,118,2023-03-20,Trend towards conscious and responsible consumerism in the food and beverage industry,11.0%,Food & Beverage,1 year,Moderate,Moderate,Buy,Active
+70,222,2023-02-15,Emerging trends in the sharing economy and gig work,12.2%,E-commerce,9 months,High,High,Buy,Active
+71,319,2023-04-10,Rise in demand for electric and hybrid vehicles, and the supporting infrastructure,14.1%,Automotive,1 year,High,High,Buy,Active
+72,418,2023-06-01,Increased focus on social determinants of health and health equity in healthcare,7.7%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+73,119,2023-01-10,Trend towards sustainable and eco-friendly packaging solutions in the consumer goods industry,10.7%,Sustainability,1 year,Moderate,Moderate,Buy,Active
+74,223,2023-03-05,Growing adoption of blockchain technology and its applications,12.5%,Technology,1 year,High,High,Buy,Active
+75,320,2023-05-15,Rise in demand for renewable energy solutions and clean energy infrastructure,14.3%,Construction,1 year,High,High,Buy,Active
+76,419,2023-02-01,Increased focus on personalized and precision medicine in healthcare,8.0%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+77,120,2023-04-20,Trend towards natural and clean beauty products in the cosmetics industry,11.2%,Retail,1 year,Moderate,Moderate,Buy,Active
+78,224,2023-06-10,Emerging trends in the decentralized finance (DeFi) space and its impact on the financial sector,12.6%,Finance,9 months,High,High,Buy,Active
+79,321,2023-01-15,Rise in demand for smart and connected home devices and technologies,14.0%,Technology,1 year,High,High,Buy,Active
+80,420,2023-03-15,Increased focus on integrating technology and digital solutions into healthcare delivery,8.2%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+81,121,2023-02-10,Trend towards personalized and customized beauty and personal care products,11.1%,Retail,1 year,Moderate,Moderate,Buy,Active
+82,225,2023-04-05,Growing adoption of cloud-based enterprise software and services,12.9%,Technology,1 year,High,High,Buy,Active
+83,322,2023-06-20,Rise in demand for sustainable and energy-efficient construction materials and practices,14.2%,Construction,1 year,High,High,Buy,Active
+84,421,2023-01-01,Increased focus on employee wellness, mental health, and work-life balance,7.9%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+85,122,2023-03-10,Trend towards conscious and responsible consumerism in the food and beverage industry,10.9%,Food & Beverage,1 year,Moderate,Moderate,Buy,Active
+86,226,2023-02-05,Emerging trends in the sharing economy and gig work,12.3%,E-commerce,9 months,High,High,Buy,Active
+87,323,2023-04-15,Rise in demand for electric and hybrid vehicles, and the supporting infrastructure,14.1%,Automotive,1 year,High,High,Buy,Active
+88,422,2023-06-01,Increased focus on social determinants of health and health equity in healthcare,8.0%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+89,123,2023-01-05,Trend towards sustainable and eco-friendly packaging solutions in the consumer goods industry,10.6%,Sustainability,1 year,Moderate,Moderate,Buy,Active
+90,227,2023-03-20,Growing adoption of blockchain technology and its applications,12.7%,Technology,1 year,High,High,Buy,Active
+91,324,2023-02-15,Rise in demand for renewable energy solutions and clean energy infrastructure,14.4%,Construction,1 year,High,High,Buy,Active
+92,423,2023-04-10,Increased focus on personalized and precision medicine in healthcare,7.8%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+93,124,2023-06-05,Trend towards natural and clean beauty products in the cosmetics industry,11.0%,Retail,1 year,Moderate,Moderate,Buy,Active
+94,228,2023-01-10,Emerging trends in the decentralized finance (DeFi) space and its impact on the financial sector,12.8%,Finance,9 months,High,High,Buy,Active
+95,325,2023-03-05,Rise in demand for smart and connected home devices and technologies,14.2%,Technology,1 year,High,High,Buy,Active
+96,424,2023-05-15,Increased focus on integrating technology and digital solutions into healthcare delivery,7.9%,Healthcare,6 months,Moderate,Moderate,Hold,Active
+97,125,2023-02-01,Trend towards personalized and customized beauty and personal care products,11.2%,Retail,1 year,Moderate,Moderate,Buy,Active
+98,229,2023-04-20,Growing adoption of cloud-based enterprise software and services,13.0%,Technology,1 year,High,High,Buy,Active
+99,326,2023-06-10,Rise in demand for sustainable and energy-efficient construction materials and practices,14.3%,Construction,1 year,High,High,Buy,Active
+100,425,2023-01-15,Increased focus on employee wellness, mental health, and work-life balance,7.7%,Healthcare,6 months,Moderate,Moderate,Hold,Active

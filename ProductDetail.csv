@@ -1,0 +1,51 @@
+product_id,product_name,product_description,manufacturer,category_id,unit_cost,unit_price,stock_quantity,reorder_level,creation_date
+1,Smartphone,Smartphone with high-resolution screen,ABC Electronics,1,300,599.99,100,20,2024-06-01
+2,Laptop,High-performance laptop with SSD,XYZ Electronics,1,800,1299.99,50,10,2024-06-02
+3,Headphones,Wireless noise-canceling headphones,SoundTech,1,100,149.99,150,30,2024-06-03
+4,Smartwatch,Waterproof smartwatch with health tracker,FitWear,1,200,299.99,80,15,2024-06-04
+5,Tablet,10-inch tablet with quad-core processor,TabCo,1,250,499.99,120,25,2024-06-05
+6,Desk Chair,Ergonomic office chair with lumbar support,ComfortSeat,2,100,199.99,200,50,2024-06-06
+7,Sofa,Luxurious leather sofa for living room,HomeComfort,2,800,999.99,60,10,2024-06-07
+8,Dining Table,Extendable dining table for family gatherings,HomeComfort,2,400,799.99,80,20,2024-06-08
+9,Bed,Queen-sized bed with memory foam mattress,SleepWell,2,700,1499.99,40,5,2024-06-09
+10,Bookshelf,Wooden bookshelf for organizing books and decor,HomeDecor,2,80,299.99,100,20,2024-06-10
+11,Blender,High-speed blender for smoothies and soups,KitchenBliss,3,50,79.99,150,30,2024-06-11
+12,Toaster,Stainless steel toaster with multiple settings,KitchenBliss,3,30,39.99,200,40,2024-06-12
+13,Coffee Maker,Programmable coffee maker with carafe,KitchenBliss,3,80,149.99,100,20,2024-06-13
+14,Microwave Oven,Compact microwave oven with defrost function,KitchenBliss,3,100,199.99,80,15,2024-06-14
+15,Vacuum Cleaner,Bagless vacuum cleaner with HEPA filter,CleanTech,3,150,299.99,120,25,2024-06-15
+16,T-shirt,Cotton crew-neck t-shirt in various colors,EverydayWear,4,10,19.99,300,50,2024-06-16
+17,Jeans,Classic denim jeans with slim fit,EverydayWear,4,30,49.99,200,40,2024-06-17
+18,Sweater,Knitted sweater with ribbed cuffs and hem,EverydayWear,4,25,39.99,250,60,2024-06-18
+19,Dress Shirt,Formal dress shirt for professional occasions,EverydayWear,4,35,59.99,150,30,2024-06-19
+20,Sneakers,Canvas sneakers with rubber sole,EverydayWear,4,50,99.99,180,40,2024-06-20
+21,Backpack,Water-resistant backpack with laptop compartment,OutdoorGear,5,40,49.99,200,30,2024-06-21
+22,Watch,Analog wristwatch with stainless steel band,AccessoriesCo,5,100,199.99,150,20,2024-06-22
+23,Sunglasses,UV-protective sunglasses with polarized lenses,AccessoriesCo,5,50,99.99,250,40,2024-06-23
+24,Wallet,Genuine leather wallet with RFID blocking,AccessoriesCo,5,30,79.99,200,30,2024-06-24
+25,Necklace,Sterling silver necklace with pendant,AccessoriesCo,5,60,149.99,100,20,2024-06-25
+26,Baby Stroller,Lightweight stroller with adjustable canopy,BabyGear,6,150,299.99,80,15,2024-06-26
+27,Toy Blocks,Colorful building blocks for creative play,KidzToyz,6,20,19.99,150,30,2024-06-27
+28,Dollhouse,Wooden dollhouse with furniture and dolls,KidzToyz,6,80,149.99,100,20,2024-06-28
+29,Remote Control Car,RC car with rechargeable battery,ToyCo,6,40,79.99,120,25,2024-06-29
+30,Board Game,Fun family board game for all ages,GameCo,6,20,39.99,200,40,2024-06-30
+31,Outdoor Grill,Stainless steel propane grill with side burner,GrillMaster,7,300,499.99,60,10,2024-07-01
+32,Garden Table,Outdoor dining table with tempered glass top,OutdoorLiving,7,150,299.99,80,20,2024-07-02
+33,Hammock,Cotton hammock for backyard relaxation,OutdoorLiving,7,50,99.99,100,15,2024-07-03
+34,Lawn Mower,Electric lawn mower with adjustable cutting height,YardCare,7,200,399.99,40,5,2024-07-04
+35,Outdoor Umbrella,Market-style umbrella for patio shading,OutdoorLiving,7,80,149.99,120,25,2024-07-05
+36,Travel Backpack,Lightweight backpack for travel and hiking,AdventureGear,8,60,99.99,150,30,2024-07-06
+37,Travel Pillow,Memory foam travel pillow for neck support,TravelComfort,8,20,29.99,200,40,2024-07-07
+38,Travel Adapter,Universal travel adapter with USB ports,TravelEssentials,8,15,19.99,300,50,2024-07-08
+39,Carry-On Luggage,Hardshell carry-on luggage with spinner wheels,TravelEssentials,8,100,149.99,100,20,2024-07-09
+40,Travel Duffel Bag,Durable duffel bag for weekend getaways,TravelEssentials,8,50,79.99,120,25,2024-07-10
+41,Notebook,College-ruled notebook with spiral binding,StationeryCo,9,5,9.99,500,100,2024-07-11
+42,Pen Set,Set of gel pens in assorted colors,StationeryCo,9,10,19.99,400,80,2024-07-12
+43,Stapler,Compact stapler with built-in staple remover,StationeryCo,9,8,14.99,300,60,2024-07-13
+44,Desk Organizer,Mesh desk organizer for office supplies,StationeryCo,9,20,29.99,200,40,2024-07-14
+45,File Cabinet,Lockable metal file cabinet with 2 drawers,OfficeFurnish,9,150,99.99,100,20,2024-07-15
+46,Artificial Plant,Artificial succulent plant in ceramic pot,HomeDecor,10,25,49.99,150,30,2024-07-16
+47,Picture Frame,Wooden picture frame for displaying photos,HomeDecor,10,15,19.99,250,50,2024-07-17
+48,Throw Blanket,Soft throw blanket with fringe edges,HomeDecor,10,20,39.99,200,40,2024-07-18
+49,Curtains,Blackout curtains with grommet top,HomeDecor,10,30,29.99,180,36,2024-07-19
+50,Wall Clock,Analog wall clock with silent sweep movement,HomeDecor,10,40,59.99,150,30,2024-07-20

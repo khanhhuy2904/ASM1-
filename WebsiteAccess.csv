@@ -1,0 +1,201 @@
+WebsiteAccessCategoryID,CategoryName,CategoryDescription,CategoryType,CategoryParent,CategoryVisits,CategoryConversionRate,CategoryRevenue,CategoryReferralSource,CategoryPageViews,CategoryStatus
+1,Home Page,Main entry point for website,Home,NULL,250000,0.12,50000.00,Direct,1000000,Active
+2,Product Catalog,Browse and search product offerings,Product,NULL,175000,0.18,87500.00,Referral,750000,Active
+3,Shopping Cart,Manage items in shopping cart,Checkout,NULL,90000,0.25,45000.00,Direct,400000,Active
+4,Checkout Process,Complete purchase transaction,Checkout,NULL,65000,0.30,39000.00,Direct,300000,Active
+5,Account Management,Manage user account settings,Account,NULL,45000,0.22,19800.00,Direct,200000,Active
+6,Help & Support,Access customer support resources,Support,NULL,35000,0.15,10500.00,Referral,150000,Active
+7,Blog,Read articles and blog posts,Content,NULL,25000,0.14,6250.00,Referral,120000,Active
+8,About Us,Learn about the company and team,Information,NULL,20000,0.08,3200.00,Direct,100000,Active
+9,Contact Us,Submit inquiries and feedback,Support,NULL,15000,0.18,5400.00,Referral,75000,Active
+10,Promotions,View current sales and offers,Product,NULL,30000,0.20,12000.00,Direct,140000,Active
+11,Privacy Policy,Review website privacy information,Information,NULL,10000,0.05,1000.00,Direct,50000,Active
+12,Terms of Service,Understand website usage policies,Information,NULL,8000,0.07,1120.00,Direct,40000,Active
+13,Site Map,Navigate website structure,Information,NULL,12000,0.09,2160.00,Referral,60000,Active
+14,Career Opportunities,View available job openings,Information,NULL,5000,0.10,1000.00,Referral,25000,Active
+15,Press Room,Read company news and press releases,Information,NULL,6000,0.06,720.00,Referral,30000,Active
+16,Community Forum,Participate in discussions,Support,NULL,18000,0.12,4320.00,Referral,90000,Active
+17,Product Reviews,Read customer reviews,Product,NULL,35000,0.16,11200.00,Referral,160000,Active
+18,Loyalty Program,Enroll and manage loyalty accounts,Account,NULL,22000,0.25,11000.00,Direct,110000,Active
+19,Gift Cards,Purchase and redeem gift cards,Product,NULL,15000,0.18,5400.00,Direct,75000,Active
+20,Return Policy,Review website return policy,Information,NULL,8000,0.07,1120.00,Direct,40000,Active
+21,Seasonal Promotions,Seasonal sales and discounts,Product,NULL,40000,0.22,17600.00,Direct,180000,Active
+22,Clearance Items,Discounted or discontinued products,Product,NULL,25000,0.18,9000.00,Referral,120000,Active
+23,New Arrivals,Recently added products,Product,NULL,35000,0.20,14000.00,Direct,160000,Active
+24,Top Sellers,Most popular and best-selling products,Product,NULL,45000,0.24,21600.00,Referral,200000,Active
+25,Customer Reviews,Read and write product reviews,Product,NULL,30000,0.16,9600.00,Referral,140000,Active
+26,Shipping Info,Review shipping policies and options,Support,NULL,20000,0.13,5200.00,Direct,100000,Active
+27,Returns & Exchanges,Process returns and exchanges,Support,NULL,15000,0.15,4500.00,Referral,75000,Active
+28,Order Tracking,Track the status of placed orders,Account,NULL,25000,0.22,11000.00,Direct,120000,Active
+29,Wish List,Create and manage personal wish lists,Account,NULL,18000,0.18,6480.00,Referral,90000,Active
+30,Gift Registry,Create and manage gift registries,Account,NULL,12000,0.20,4800.00,Referral,60000,Active
+31,Financing Options,Review available payment plans,Checkout,NULL,10000,0.25,5000.00,Direct,50000,Active
+32,Bulk Orders,Purchase products in bulk quantities,Product,NULL,8000,0.19,3040.00,Referral,40000,Active
+33,Corporate Accounts,Manage business/enterprise accounts,Account,NULL,6000,0.22,2640.00,Direct,30000,Active
+34,Brand Stores,Dedicated brand-specific storefronts,Product,NULL,15000,0.18,5400.00,Referral,75000,Active
+35,Subscription Services,Enroll in recurring product/service plans,Product,NULL,12000,0.24,5760.00,Direct,60000,Active
+36,Influencer Program,Apply to become an affiliate/influencer,Information,NULL,8000,0.12,1920.00,Referral,40000,Active
+37,Recruitment,Apply for open job positions,Information,NULL,6000,0.14,1680.00,Referral,30000,Active
+38,Media Inquiries,Contact the press/media team,Support,NULL,4000,0.10,800.00,Direct,20000,Active
+39,Investor Relations,Access financial/company information,Information,NULL,3000,0.08,480.00,Referral,15000,Active
+40,Site Feedback,Submit feedback about the website,Support,NULL,10000,0.11,2200.00,Direct,50000,Active
+41,Featured Products,Highlighted or promoted products,Product,NULL,50000,0.23,23000.00,Direct,225000,Active
+42,Sale Items,Products currently on sale,Product,NULL,35000,0.19,12250.00,Referral,160000,Active
+43,Trending Now,Most popular products/categories,Product,NULL,45000,0.21,18900.00,Direct,200000,Active
+44,Gift Ideas,Suggestions for gift purchases,Product,NULL,30000,0.17,8100.00,Referral,140000,Active
+45,Personalized Recommendations,Tailored product suggestions,Product,NULL,25000,0.22,11000.00,Direct,120000,Active
+46,Design Services,Custom design and consultation,Service,NULL,15000,0.20,6000.00,Referral,75000,Active
+47,Installation Services,Product installation and setup,Service,NULL,12000,0.18,4320.00,Direct,60000,Active
+48,Maintenance & Support,Post-purchase assistance,Service,NULL,10000,0.16,3200.00,Referral,50000,Active
+49,Replacement Parts,Order replacement product parts,Product,NULL,18000,0.15,5400.00,Direct,90000,Active
+50,Refurbished Items,Pre-owned and repaired products,Product,NULL,20000,0.17,6800.00,Referral,100000,Active
+51,Subscription Box,Recurring product deliveries,Product,NULL,14000,0.22,6160.00,Direct,70000,Active
+52,Extended Warranties,Purchase product protection plans,Product,NULL,12000,0.19,4560.00,Referral,60000,Active
+53,Loyalty Rewards,Earn and redeem loyalty points,Account,NULL,16000,0.24,7680.00,Direct,80000,Active
+54,Refer-a-Friend,Invite friends to join and earn rewards,Account,NULL,8000,0.18,2880.00,Referral,40000,Active
+55,Trade-In Program,Exchange old products for credit,Product,NULL,10000,0.21,4200.00,Direct,50000,Active
+56,Financing Calculator,Estimate monthly payments,Checkout,NULL,8000,0.23,3680.00,Referral,40000,Active
+57,Gift Card Balance,Check and manage gift card balances,Account,NULL,12000,0.15,3600.00,Direct,60000,Active
+58,Subscription Management,Manage recurring product/service plans,Account,NULL,9000,0.20,3600.00,Referral,45000,Active
+59,Product Configurator,Customize product features and options,Product,NULL,14000,0.22,6160.00,Direct,70000,Active
+60,Sustainability & Environment,Learn about eco-friendly initiatives,Information,NULL,6000,0.12,1440.00,Referral,30000,Active
+61,Corporate Social Responsibility,View company's social impact efforts,Information,NULL,5000,0.10,1000.00,Direct,25000,Active
+62,Accessibility Features,Explore assistive website features,Information,NULL,4000,0.14,1120.00,Referral,20000,Active
+63,Affiliate Program,Join the company's affiliate network,Information,NULL,7000,0.16,2240.00,Direct,35000,Active
+64,Wholesale Inquiries,Request wholesale pricing and terms,Product,NULL,6000,0.18,2160.00,Referral,30000,Active
+65,Terms of Use Update,Review changes to website policies,Information,NULL,3000,0.08,480.00,Direct,15000,Active
+66,Site Search,Utilize the website's search functionality,Information,NULL,20000,0.14,5600.00,Referral,100000,Active
+67,Multilingual Support,Access the website in different languages,Information,NULL,4000,0.11,880.00,Direct,20000,Active
+68,Site Chat,Engage in live chat with customer service,Support,NULL,8000,0.17,2720.00,Referral,40000,Active
+69,Careers & Jobs,Browse and apply for open positions,Information,NULL,5000,0.12,1200.00,Direct,25000,Active
+70,Press Releases,Read the latest company news updates,Information,NULL,4000,0.09,720.00,Referral,20000,Active
+71,Clearance Items,Discounted/closeout products,Product,NULL,25000,0.18,8500.00,Referral,120000,Active
+72,Best Sellers,Most popular and top-selling products,Product,NULL,30000,0.22,13200.00,Direct,140000,Active
+73,New Arrivals,Recently added or launched products,Product,NULL,28000,0.20,11200.00,Referral,130000,Active
+74,Bulk Purchasing,Order products in larger quantities,Product,NULL,12000,0.16,3840.00,Direct,60000,Active
+75,Commercial Accounts,Services for business/enterprise customers,Account,NULL,10000,0.19,3800.00,Referral,50000,Active
+76,Refund Policy,Review the company's return and refund terms,Information,NULL,6000,0.13,1560.00,Direct,30000,Active
+77,Shipping Information,View details on delivery options and costs,Information,NULL,14000,0.15,4200.00,Referral,70000,Active
+78,Contact Us,Access customer service contact methods,Support,NULL,16000,0.18,5760.00,Direct,80000,Active
+79,Sizing & Fit Guides,Learn about product dimensions and fit,Information,NULL,12000,0.14,3360.00,Referral,60000,Active
+80,In-Store Pickup,Order online and pick up locally,Checkout,NULL,18000,0.21,7560.00,Direct,90000,Active
+81,Pre-Order Products,Reserve items not yet in stock,Product,NULL,14000,0.17,4760.00,Referral,70000,Active
+82,Bundle Discounts,Save by purchasing products together,Product,NULL,16000,0.19,6080.00,Direct,80000,Active
+83,Demo Videos,Watch product demonstrations,Information,NULL,8000,0.12,1920.00,Referral,40000,Active
+84,Return Merchandise,Initiate product returns and exchanges,Support,NULL,12000,0.16,3840.00,Direct,60000,Active
+85,Privacy Policy,Review the company's data privacy practices,Information,NULL,6000,0.10,1200.00,Referral,30000,Active
+86,Order Status,Track the status of placed orders,Account,NULL,15000,0.17,5100.00,Direct,75000,Active
+87,Accessibility Statement,Understand website accessibility features,Information,NULL,4000,0.12,960.00,Referral,20000,Active
+88,Recruitment Events,Learn about company career events,Information,NULL,5000,0.14,1400.00,Direct,25000,Active
+89,Product Tutorials,Watch how-to videos and guides,Information,NULL,10000,0.13,2600.00,Referral,50000,Active
+90,Sustainability Reports,Review the company's environmental impact,Information,NULL,4000,0.11,880.00,Direct,20000,Active
+91,Gift Cards,Purchase digital or physical gift cards,Product,NULL,12000,0.16,3840.00,Referral,60000,Active
+92,Personalized Products,Customize products with text/images,Product,NULL,14000,0.18,5040.00,Direct,70000,Active
+93,Loyalty Program,Earn rewards for purchases and engagement,Account,NULL,10000,0.15,3000.00,Referral,50000,Active
+94,Influencer Marketplace,Discover and work with content creators,Information,NULL,6000,0.12,1440.00,Direct,30000,Active
+95,Featured Collections,Curated product assortments,Product,NULL,16000,0.19,6080.00,Referral,80000,Active
+96,Rent-to-Own,Flexible payment options for purchases,Product,NULL,8000,0.14,2240.00,Direct,40000,Active
+97,Wholesale Accounts,Apply for discounted bulk ordering,Account,NULL,5000,0.13,1300.00,Referral,25000,Active
+98,Augmented Reality,Virtually preview products in your space,Information,NULL,9000,0.11,1980.00,Direct,45000,Active
+99,Member Exclusives,Special offers and content for members,Account,NULL,12000,0.17,4080.00,Referral,60000,Active
+100,Trade-In Program,Recycle old products for store credit,Support,NULL,8000,0.13,2080.00,Direct,40000,Active
+101,Financing Options,Apply for buy-now-pay-later plans,Checkout,NULL,10000,0.16,3200.00,Referral,50000,Active
+102,Subscription Services,Enroll in recurring product deliveries,Account,NULL,7000,0.14,1960.00,Direct,35000,Active
+103,Livestream Events,Watch product demos and Q&As in real-time,Information,NULL,6000,0.10,1200.00,Referral,30000,Active
+104,Partner Offers,Exclusive deals with affiliated brands,Product,NULL,9000,0.15,2700.00,Direct,45000,Active
+105,Social Impact,Learn about the company's charitable efforts,Information,NULL,4000,0.09,720.00,Referral,20000,Active
+106,Sustainability Hub,Explore eco-friendly product selections,Product,NULL,8000,0.12,1920.00,Direct,40000,Active
+107,Affiliate Program,Earn commissions by promoting products,Information,NULL,5000,0.11,1100.00,Referral,25000,Active
+108,Accessible Design,Discover inclusive product features,Information,NULL,6000,0.10,1200.00,Direct,30000,Active
+109,Virtual Consultations,Schedule 1-on-1 product advice sessions,Support,NULL,7000,0.14,1960.00,Referral,35000,Active
+110,Localized Sites,Browse the site in multiple languages,Information,NULL,8000,0.12,1920.00,Direct,40000,Active
+111,Custom Orders,Request unique or personalized products,Product,NULL,6000,0.11,1320.00,Referral,30000,Active
+112,Sample Sales,Discounted pre-owned or open-box items,Product,NULL,8000,0.14,2240.00,Direct,40000,Active
+113,Rewards Redemption,Use earned points for purchases,Account,NULL,9000,0.15,2700.00,Referral,45000,Active
+114,Reseller Portal,Tools and resources for authorized sellers,Account,NULL,5000,0.12,1200.00,Direct,25000,Active
+115,Donations & Fundraising,Support charitable causes through purchases,Product,NULL,6000,0.10,1200.00,Referral,30000,Active
+116,Clearance Outlet,Deeply discounted discontinued products,Product,NULL,10000,0.15,3000.00,Direct,50000,Active
+117,Wholesale Inquiries,Request price quotes for bulk orders,Support,NULL,7000,0.13,1820.00,Referral,35000,Active
+118,Rental Services,Lease products on a temporary basis,Product,NULL,5000,0.11,1100.00,Direct,25000,Active
+119,Community Forums,Discuss products and share experiences,Support,NULL,8000,0.12,1920.00,Referral,40000,Active
+120,Brand Ambassadors,Apply to represent the company as an influencer,Information,NULL,4000,0.09,720.00,Direct,20000,Active
+121,Vendor Applications,Submit proposals to sell products,Support,NULL,6000,0.10,1200.00,Referral,30000,Active
+122,Educational Resources,Access product guides and tutorials,Information,NULL,8000,0.13,2080.00,Direct,40000,Active
+123,Sustainability Initiatives,Explore the company's green programs,Information,NULL,5000,0.08,800.00,Referral,25000,Active
+124,Scholarship Program,Apply for educational funding opportunities,Information,NULL,3000,0.07,420.00,Direct,15000,Active
+125,Corporate Gifts,Purchase products for business/client gifting,Product,NULL,7000,0.12,1680.00,Referral,35000,Active
+126,Volunteer Opportunities,Sign up to support charitable events,Information,NULL,4000,0.09,720.00,Direct,20000,Active
+127,Luxury Collections,Premium and high-end product lines,Product,NULL,9000,0.16,2880.00,Referral,45000,Active
+128,Membership Benefits,Explore perks of joining the loyalty program,Account,NULL,8000,0.14,2240.00,Direct,40000,Active
+129,Enterprise Solutions,Custom services for large-scale customers,Account,NULL,6000,0.11,1320.00,Referral,30000,Active
+130,Upcoming Events,Browse in-person and virtual events,Information,NULL,5000,0.10,1000.00,Direct,25000,Active
+131,Outlet Deals,Deep discounts on overstocked items,Product,NULL,12000,0.17,4080.00,Direct,60000,Active
+132,Flash Sales,Limited-time product promotions,Product,NULL,10000,0.15,3000.00,Referral,50000,Active
+133,Bulk Purchasing,Discounted pricing for large quantity orders,Product,NULL,8000,0.13,2080.00,Direct,40000,Active
+134,Product Bundles,Pre-assembled groups of complementary items,Product,NULL,11000,0.16,3520.00,Referral,55000,Active
+135,Trending Collections,Featured assortments of popular products,Product,NULL,12000,0.18,4320.00,Direct,60000,Active
+136,Certified Refurbished,Pre-owned items with manufacturer warranty,Product,NULL,9000,0.14,2520.00,Referral,45000,Active
+137,Corporate Accounts,Specialized services for business customers,Account,NULL,7000,0.12,1680.00,Direct,35000,Active
+138,Charitable Donations,Option to add donations to purchases,Checkout,NULL,6000,0.10,1200.00,Referral,30000,Active
+139,Career Opportunities,View and apply for open job positions,Information,NULL,5000,0.09,900.00,Direct,25000,Active
+140,Partner Programs,Co-marketing and affiliate opportunities,Information,NULL,8000,0.13,2080.00,Referral,40000,Active
+141,Home Design Studio,Visualize products in your living space,Information,NULL,9000,0.15,2700.00,Direct,45000,Active
+142,Loyalty Points Mall,Redeem points for exclusive merchandise,Product,93,10000,0.16,3200.00,Referral,50000,Active
+143,Warranty & Returns,Learn about the company's product policies,Support,NULL,8000,0.12,1920.00,Direct,40000,Active
+144,Accessibility Features,Discover inclusive design capabilities,Information,NULL,6000,0.10,1200.00,Referral,30000,Active
+145,Sustainability Reporting,Explore environmental impact metrics,Information,NULL,5000,0.08,800.00,Direct,25000,Active
+146,Customer Reviews,Browse product ratings and feedback,Information,NULL,12000,0.17,4080.00,Referral,60000,Active
+147,Influencer Partnerships,Apply to collaborate with brand ambassadors,Information,94,7000,0.11,1540.00,Direct,35000,Active
+148,Subscription Boxes,Enroll in recurring product shipments,Product,102,9000,0.15,2700.00,Referral,45000,Active
+149,Made-to-Order,Customized products built upon request,Product,111,6000,0.10,1200.00,Direct,30000,Active
+150,Upcycling Program,Recycle old products into new items,Product,100,7000,0.12,1680.00,Referral,35000,Active
+151,Personalized Recommendations,Tailored product suggestions based on interests,Information,NULL,14000,0.19,5320.00,Direct,70000,Active
+152,Virtual Showroom,Interactive 3D product displays,Information,141,12000,0.17,4080.00,Referral,60000,Active
+153,Augmented Reality,Visualize products in your own space,Information,141,10000,0.15,3000.00,Direct,50000,Active
+154,Appointment Scheduling,Book one-on-one consultations,Support,NULL,8000,0.12,1920.00,Referral,40000,Active
+155,Giveaways & Contests,Enter to win free products or experiences,Promotion,NULL,9000,0.14,2520.00,Direct,45000,Active
+156,Design Services,Custom product mockups and renderings,Service,NULL,7000,0.11,1540.00,Referral,35000,Active
+157,Trade-In Program,Exchange old items for store credit,Product,NULL,10000,0.16,3200.00,Direct,50000,Active
+158,Recycling Initiative,Responsibly dispose of used products,Support,145,6000,0.09,1080.00,Referral,30000,Active
+159,Insider Community,Exclusive members-only perks and content,Account,93,8000,0.13,2080.00,Direct,40000,Active
+160,Referral Rewards,Earn bonuses for referring new customers,Promotion,93,7000,0.11,1540.00,Referral,35000,Active
+161,Exclusive Releases,First access to new product launches,Product,135,11000,0.17,3740.00,Direct,55000,Active
+162,Social Impact Investments,Donate proceeds to charitable causes,Checkout,138,6000,0.10,1200.00,Referral,30000,Active
+163,Co-Creation Studio,Collaborate on product designs,Information,141,8000,0.13,2080.00,Direct,40000,Active
+164,Sustainability Consulting,Expert guidance on eco-friendly options,Service,145,7000,0.11,1540.00,Referral,35000,Active
+165,Luxury Rentals,High-end products available for lease,Product,118,9000,0.14,2520.00,Direct,45000,Active
+166,Certified Pre-Owned,Professionally inspected used items,Product,136,10000,0.15,3000.00,Referral,50000,Active
+167,White Glove Delivery,Premium in-home setup and installation,Service,NULL,8000,0.12,1920.00,Direct,40000,Active
+168,Brand Collaborations,Co-branded products with other companies,Product,135,11000,0.16,3520.00,Referral,55000,Active
+169,Charitable Gift Cards,Donate preset card amounts to nonprofits,Checkout,138,7000,0.10,1400.00,Direct,35000,Active
+170,VIP Membership,Exclusive perks for loyal customers,Account,93,9000,0.15,2700.00,Referral,45000,Active
+171,Subscription Management,Modify or cancel recurring shipments,Service,148,8000,0.12,1920.00,Direct,40000,Active
+172,Outlet Clearance,Discounted overstocked and discontinued items,Product,131,12000,0.18,4320.00,Referral,60000,Active
+173,Custom Product Builder,Design your own unique item,Product,111,9000,0.14,2520.00,Direct,45000,Active
+174,AI Product Advisor,Intelligent recommendations based on needs,Information,151,10000,0.16,3200.00,Referral,50000,Active
+175,Product Comparison Tool,Side-by-side feature and spec analysis,Information,NULL,8000,0.12,1920.00,Direct,40000,Active
+176,Investment Research,Data on market trends and performance,Information,NULL,6000,0.09,1080.00,Referral,30000,Active
+177,Small Business Solutions,Specialized offerings for entrepreneurs,Account,137,7000,0.11,1540.00,Direct,35000,Active
+178,Subscription Pilots,Test new recurring delivery services,Product,148,8000,0.13,2080.00,Referral,40000,Active
+179,Peer-to-Peer Marketplace,Buy and sell pre-owned products,Product,136,9000,0.14,2520.00,Direct,45000,Active
+180,Charity Gift Registry,Contribute to causes via personal list,Checkout,162,6000,0.10,1200.00,Referral,30000,Active
+181,Beauty Sampling Program,Try new items before purchasing,Product,NULL,10000,0.16,3200.00,Direct,50000,Active
+182,Certified Green Products,Eco-friendly and sustainable options,Product,135,9000,0.15,2700.00,Referral,45000,Active
+183,Direct-to-Consumer Sales,Bypass traditional retail channels,Product,NULL,11000,0.17,3740.00,Direct,55000,Active
+184,Subscription Box Discounts,Special pricing for recurring orders,Promotion,148,8000,0.13,2080.00,Referral,40000,Active
+185,Influencer-Curated Collections,Exclusive product assortments,Product,147,7000,0.11,1540.00,Direct,35000,Active
+186,Customer Loyalty Program,Earn points for purchases and activities,Account,93,10000,0.16,3200.00,Referral,50000,Active
+187,Request a Product,Suggest new items for the company to develop,Information,NULL,6000,0.09,1080.00,Direct,30000,Active
+188,Curbside Pickup,Convenient in-store retrieval option,Service,NULL,9000,0.14,2520.00,Referral,45000,Active
+189,Subscription Add-Ons,Customizable extras for recurring orders,Product,148,8000,0.13,2080.00,Direct,40000,Active
+190,Sustainability Certifications,Validate environmental impact claims,Information,145,7000,0.10,1400.00,Referral,35000,Active
+191,Sustainability Impact Calculator,Estimate environmental footprint of products,Information,145,5000,0.08,800.00,Direct,25000,Active
+192,Financing & Payment Plans,Flexible options to pay over time,Checkout,NULL,8000,0.13,2080.00,Referral,40000,Active
+193,Educational Content Library,Tutorials, guides, and industry insights,Information,NULL,7000,0.10,1400.00,Direct,35000,Active
+194,Bulk Order Discounts,Special pricing for large quantity purchases,Promotion,NULL,9000,0.14,2520.00,Referral,45000,Active
+195,Refurbished & Used Goods,Pre-owned and repaired merchandise,Product,166,8000,0.12,1920.00,Direct,40000,Active
+196,Corporate Gifting Program,Curated selections for business clients,Product,185,6000,0.09,1080.00,Referral,30000,Active
+197,Subscription Pause/Skip,Temporarily suspend recurring deliveries,Service,171,7000,0.11,1540.00,Direct,35000,Active
+198,Personalized Style Quiz,Tailored product recommendations,Information,151,8000,0.13,2080.00,Referral,40000,Active
+199,Virtual Showroom Appointments,Schedule live demos with experts,Service,152,6000,0.10,1200.00,Direct,30000,Active
+200,Sustainability Impact Offsets,Donate to environmental initiatives,Checkout,162,5000,0.08,800.00,Referral,25000,Active
